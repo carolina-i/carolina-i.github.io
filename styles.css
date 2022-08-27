@@ -33,7 +33,8 @@ h1 {
 }
 p {
 	margin: 0px;
-	max-width: 15em;	
+	width: 100%;
+	max-width: 16em;	
 	margin-block-start: 0.25em;
 	margin-block-end: 0.25em;
 	line-height: 1.1;
